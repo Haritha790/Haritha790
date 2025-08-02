@@ -15,6 +15,28 @@ MongoDB 🍃
 SQL 🗃️
 Java 🧑‍💻
 
+:
+
+🖥️ Frontend
+📝 HTML
+
+🎨 CSS
+
+⚡ JavaScript
+
+🛠️ Backend
+🌱 Node.js
+
+🚀 Express.js
+
+🗄️ Databases
+🍃 MongoDB
+
+🗃️ SQL
+
+☕ Programming Languages
+🧑‍💻
+
 <!--
 **Haritha790/Haritha790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
