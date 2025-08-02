@@ -28,7 +28,7 @@ These are some of the technologies I love building with:
 
 ## 📫 How to reach me
 
-- ✉️ **Email**: [harithabammidi78@gmail.com](harithabammidi78@gmail.com)  
+- ✉️ **Email**: [harithabammidi78@gmail.com](mailto:harithabammidi78@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/haritha-bammidi/](https://www.linkedin.com/in/haritha-bammidi/)
 
 
