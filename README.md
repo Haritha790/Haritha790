@@ -28,8 +28,8 @@ These are some of the technologies I love building with:
 
 ## 📫 How to reach me
 
-- ✉️ **Email**: [your.email@example.com](harithabammidi78@gmail.com)  
-- 🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/haritha-bammidi/)
+- ✉️ **Email**: [harithabammidi78@gmail.com](harithabammidi78@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/haritha-bammidi/](https://www.linkedin.com/in/haritha-bammidi/)
 
 
 
