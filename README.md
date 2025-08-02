@@ -5,7 +5,27 @@ I'm an passionate and self-motivated web developer who enjoys crafting clean, re
 I'm an aspiring web developer passionate about building clean and responsive websites.
 I enjoy solving real-world problems through creative coding and continuous learning.
 
+
 ## 💻 Skills & Technologies
+Here are some of the awesome technologies I work with:
+
+- 📝 **HTML**
+- 🎨 **CSS**
+- ⚡ **JavaScript**
+- 🌱 **Node.js**
+- 🛠️ **EJS**
+- 🚀 **Express**
+- 🍃 **MongoDB**
+- 🗃️ **SQL**
+
+
+
+
+
+
+
+
+
 -📝 HTML
 -🎨 CSS
 -⚡ JavaScript
