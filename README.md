@@ -42,6 +42,9 @@ I’m passionate about continuous learning and staying up to date and I travel t
 
 
 ## ✨Let’s connect and build something amazing together 🤗
+---
+
+---
 
 
 
