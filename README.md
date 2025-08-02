@@ -20,7 +20,9 @@ These are some of the technologies I love building with:
 
 ##  🌱 I’m currently learning
 
-- **I’m currently exploring exciting technologies like React and Node.js.**
+- **React.js**
+- **React Native for building mobile apps**
+- **Next.js for building fast, scalable web apps**
 
 ## 📚 My Projects
 
