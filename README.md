@@ -1,6 +1,11 @@
 ## Hi there I'm Bammidi Haritha👋
 I'm an passionate and self-motivated web developer who enjoys crafting clean, responsive, and accessible websites. Currently I'm exploring full-stack development and I'm always excited to learn new technologies and apply them through hands-on projects.
 
+
+I'm an aspiring web developer passionate about building clean and responsive websites.
+I enjoy solving real-world problems through creative coding and continuous learning.
+
+
 <!--
 **Haritha790/Haritha790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
