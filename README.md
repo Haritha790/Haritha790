@@ -36,8 +36,7 @@ These are some of the technologies I love building with:
 ## 💡Fun fact
 
 I’m passionate about continuous learning and staying up to date and I travel to disconnect, then come back with better logic. And I always love to travel and explore new places — just like I explore new technologies.
-
- Let’s build, learn, and grow together. Reach out anytime!
+Let’s build, learn, and grow together. Reach out anytime!
 ---
 
 
