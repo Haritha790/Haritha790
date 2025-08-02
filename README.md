@@ -26,6 +26,13 @@ These are some of the technologies I love building with:
 
 -  **ScanEats**: Developed a web app using React.js, Tailwind CSS, and Firebase. Enabled real-time barcode scanning, personalized health recommendations, and smart food alternatives tailored to users’ health conditions. Built a growing food database that adapts to user interactions.
 
+## 📫 How to reach me
+
+- ✉️ **Email**: [your.email@example.com](harithabammidi78@gmail.com)  
+- 🔗 **LinkedIn**: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/haritha-bammidi/)
+
+
+
 
 <!--
 **Haritha790/Haritha790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
