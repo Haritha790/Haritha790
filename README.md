@@ -37,7 +37,7 @@ I’m passionate about continuous learning and staying up to date and I travel t
 
  Let’s build, learn, and grow together. Reach out anytime!
 
-## ✨Let’s connect and build something amazing together
+## ✨Let’s connect and build something amazing together 🤗
 
 
 
