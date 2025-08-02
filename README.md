@@ -31,7 +31,13 @@ These are some of the technologies I love building with:
 - ✉️ **Email**: [harithabammidi78@gmail.com](mailto:harithabammidi78@gmail.com)  
 - 🔗 **LinkedIn**: [linkedin.com/in/haritha-bammidi/](https://www.linkedin.com/in/haritha-bammidi/)
 
+## 💡Fun fact
 
+I’m passionate about continuous learning and staying up to date and I travel to disconnect, then come back with better logic. And I always love to travel and explore new places — just like I explore new technologies.
+
+## ✨Let’s connect and build something amazing together
+
+🌟 Let’s build, learn, and grow together. Reach out anytime!
 
 
 <!--
