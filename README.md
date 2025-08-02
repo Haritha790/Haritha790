@@ -7,16 +7,16 @@ I enjoy solving real-world problems through creative coding and continuous learn
 
 
 ## 💻 Skills & Technologies
-Here are some of the awesome technologies I work with:
+These are some of the technologies I love building with:
 
 - 📝 **HTML**
 - 🎨 **CSS**
 - ⚡ **JavaScript**
 - 🌱 **Node.js**
-- 🛠️ **EJS**
 - 🚀 **Express**
 - 🍃 **MongoDB**
 - 🗃️ **SQL**
+- 🧑‍💻 **JAva**
 
 
 
