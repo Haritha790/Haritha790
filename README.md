@@ -16,25 +16,16 @@ These are some of the technologies I love building with:
 - 🚀 **Express**
 - 🍃 **MongoDB**
 - 🗃️ **SQL**
-- 🧑‍💻 **JAva**
+- 🧑‍💻 **Java**
 
+##  🌱 I’m currently learning
 
+- **I’m currently exploring exciting technologies like React and Node.js.**
 
+## 📚 My Projects
 
+-**ScanEats**: Developed a web app using React.js, Tailwind CSS, and Firebase. Enabled real-time barcode scanning, personalized health recommendations, and smart food alternatives tailored to users’ health conditions. Built a growing food database that adapts to user interactions.
 
-
-
-
-
--📝 HTML
--🎨 CSS
--⚡ JavaScript
--🌱 Node.js
--🚀 Express.js
--🗄️ Databases
--🍃 MongoDB
--🗃️ SQL
--🧑‍💻 Java
 
 <!--
 **Haritha790/Haritha790** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
